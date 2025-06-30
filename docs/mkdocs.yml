@@ -1,19 +1,43 @@
 ### Site metadata ###
 
-site_name: MkDocs Quickstart
-site_description: Starter template for a MkDocs docs site on GH Pages - including CI
-site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
+site_name: Allagan Repository
+site_description: Documentation for the Allagan series of plugins
+site_url: https://allagan.tools
 
-repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
+repo_url: https://github.com/Critical-Impact/allagan-docs
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
 
-theme: readthedocs
-
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: deep purple
+  features:
+    - navigation.expand
+    - navigation.path
 nav:
   - Home: index.md
-  - About MkDocs: about-mkdocs.md
+  - Allagan Tools:
+    - Index: allagan-tools/index.md
+    - Modules:
+      - Lists: allagan-tools/modules/lists.md
+      - Highlighting: allagan-tools/modules/highlighting.md
+      - Crafting: allagan-tools/modules/crafting.md
+      - Marketboard: allagan-tools/modules/marketboard.md
+      - Context Menu: allagan-tools/modules/context-menu.md
+      - Tooltips: allagan-tools/modules/tooltips.md
+      - Item Window: allagan-tools/modules/item-window.md
+      - Equipment Recommendation: allagan-tools/modules/equipment-recommendation.md
+    - How To:
+        - Add a preset list: allagan-tools/how-to/add-a-preset-list.md
+        - Delete a character/retainer/free company: allagan-tools/how-to/delete-character.md
+        - Create a new list: allagan-tools/how-to/create-a-new-list
+  - Allagan Market:
+    - Index: allagan-market/index.md
+  - Allagan Item Search:
+    - Index: allagan-item-search/index.md
   - Tutorial:
       - TL;DR: tutorial/tldr.md
       - Installation: tutorial/installation.md
