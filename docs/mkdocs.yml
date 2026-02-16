@@ -9,6 +9,13 @@ edit_uri: edit/master/docs/docs
 
 ### Build settings ###
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
+
 theme:
   name: material
   palette:
@@ -21,6 +28,7 @@ nav:
   - Home: index.md
   - Allagan Tools:
     - Index: allagan-tools/index.md
+    - Showcase: allagan-tools/showcase.md
     - Modules:
       - Lists: allagan-tools/modules/lists.md
       - Highlighting: allagan-tools/modules/highlighting.md
