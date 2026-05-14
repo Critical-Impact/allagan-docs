@@ -42,6 +42,8 @@ nav:
         - Add a preset list: allagan-tools/how-to/add-a-preset-list.md
         - Delete a character/retainer/free company: allagan-tools/how-to/delete-character.md
         - Create a new list: allagan-tools/how-to/create-a-new-list
+        - What can I craft?: allagan-tools/how-to/what-can-i-craft.md
+        - How to use the inventory scope picker: allagan-tools/how-to/inventory-scope-picker.md
   - Allagan Market:
     - Index: allagan-market/index.md
   - Allagan Item Search:
