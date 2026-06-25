@@ -10,7 +10,7 @@ This tool allows you to select a level, job, and a range of filters to view and 
 
 ### Interface Breakdown
 
-![../../images/equipment-recommendation.png](equipment-recommendation.png)
+![Equipment Recommendation Window](../../images/equipment-recommendation.png)
 
 | Section | Description |
 |--------|-------------|
