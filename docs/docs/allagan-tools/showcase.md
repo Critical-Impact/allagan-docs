@@ -137,24 +137,26 @@ The tool lists items that can be equipped at that level, helping identify upgrad
 
 ---
 
-## Compendium *(Coming Soon)*
+## Compendium
 
 <div class="grid cards" markdown>
 
-- ![Leves](../images/showcase/compendium-sample1.png)
-- ![Gearsets](../images/showcase/compendium-sample2.png)
+- ![View window](../images/showcase/compendium-sample1.png)
+- ![List window](../images/showcase/compendium-sample2.png)
 
 </div>
 
-The Compendium is planned as a broader reference section covering:
+The Compendium is an in-game encyclopedia for FFXIV content. Browse entries by category in a searchable card grid, drill into a table for each type, then open any entry for a detail view with map links, item sources, unlock status, and cross-links to related content.
 
-- Quests
-- NPCs
-- Monsters
-- Leves
-- Gearsets
-- Additional game systems
+Categories include:
 
-More details will be added in a future release.
+- Quests, NPCs, and Satisfaction NPCs
+- Mounts, Minions, and Achievements
+- Instances, Levequests, and Beast Tribes
+- Gearsets, Class Jobs, and Soul Crystals
+- Relic weapons and tools
+- Airship, submarine, and racing chocobo routes
+- Territories, secret recipe books, folklore tomes, and more
+
 
 ---
